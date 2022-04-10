@@ -1,0 +1,40 @@
+.first{
+float: left;
+margin-left: 200px;
+margin-top: 50px;
+padding: 50px;
+padding-top: 20px;
+background-color: lightcyan;
+}
+
+.second{
+float: left;
+margin-right: 200px;
+margin-top: 50px;
+padding: 50px;
+padding-top: 20px;
+background-color: lightgoldenrodyellow;
+}
+
+body{
+    background-color: slateblue;
+}
+table, th, td {
+    
+  border: 1px snow;
+  border-style: ridge;
+  margin-right: 200px;
+  margin-top: 50px;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: left;
+}
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    text-align: left;
+}
